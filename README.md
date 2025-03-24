@@ -4,6 +4,7 @@
     - Author: SeungGyeong Yang  
 - Subject: OSS Practice  
 - Classroom: 다향관 103
-- Contents: Git & Github  
+- Contents: Git & Github
     - Git Basic  
     - Git Workflow  
+    - Git commands 
