@@ -1,1 +1,1 @@
-print('hello world')
+print('hello yang seung gyeong!')
